@@ -5,3 +5,4 @@ Create a new branch is quick and simple.
 Switch to a new branch 'dev'.
 
 I am coding in .....
+bug has been fixed!
